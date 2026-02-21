@@ -411,7 +411,7 @@ class UnslothDDPOConfig(DDPOConfig):
     
     def __init__(
         self,
-        exp_name = 'run_retrieved_only',
+        exp_name = 'run_all',
         run_name = '',
         seed = 3407,
         log_with = None,
